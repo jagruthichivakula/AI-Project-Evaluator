@@ -1,7 +1,9 @@
-streamlit
-pymupdf
-fpdf2
-python-dotenv
-ollama
-openai
-google-genai
+## 🛠️ Technologies Used
+
+- Python
+- Streamlit
+- OpenAI API
+- GPT-4.1 Mini
+- PyMuPDF
+- FPDF2
+- python-dotenv
