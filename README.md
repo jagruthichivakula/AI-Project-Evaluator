@@ -1,8 +1,7 @@
 # 📄 AI Project Proposal Evaluator
 
 ## 📌 Overview
-
-The **AI Project Proposal Evaluator** is a Streamlit-based web application that helps evaluate Final Year Project proposals using Artificial Intelligence. Users can upload a proposal in PDF format, and the system extracts the text, analyzes it using an AI model, and generates a detailed evaluation report that can be downloaded as a PDF.
+The AI Project Proposal Evaluator is a Streamlit-based web application that evaluates Final Year Project proposals using the OpenAI GPT-4.1 Mini model. Users upload a proposal PDF, the application extracts the text, analyzes it using AI, and generates a downloadable evaluation report.
 
 ---
 
