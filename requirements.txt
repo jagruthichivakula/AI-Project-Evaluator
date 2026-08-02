@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+fpdf2
+python-dotenv
+ollama
+openai
+google-genai
